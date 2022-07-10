@@ -5,3 +5,6 @@
 - git pull
 - git commit
 
+
+--conflict 
+# master branch
